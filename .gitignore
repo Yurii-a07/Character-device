@@ -1,3 +1,4 @@
 #git ignore
 
 /client/main.out
+/driver/ccdev.ko
